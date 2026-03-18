@@ -2099,6 +2099,15 @@ body {
         font-size: 14px;
     }
     
+    .main-header {
+        padding-left: 0;
+    }
+    
+    .sidebar-toggle {
+        width: 40px;
+        height: 40px;
+    }
+    
     .view-title {
         font-size: 1.25rem;
     }

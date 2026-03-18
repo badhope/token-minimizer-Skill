@@ -58,16 +58,20 @@ const CipherCategories = {
         color: '#00f0ff',
         ciphers: [
             { id: 'base64', name: 'Base64', desc: '二进制到文本' },
+            { id: 'base64-decode', name: 'Base64 解码', desc: 'Base64反向转换' },
             { id: 'base32', name: 'Base32', desc: '32字符编码' },
             { id: 'base58', name: 'Base58', desc: '比特币地址' },
             { id: 'base91', name: 'Base91', desc: '高效编码' },
             { id: 'base100', name: 'Base100', desc: 'Emoji编码' },
             { id: 'url', name: 'URL 编码', desc: '百分号编码' },
+            { id: 'url-decode', name: 'URL 解码', desc: '百分号解码' },
             { id: 'html', name: 'HTML 实体', desc: '字符实体编码' },
+            { id: 'html-decode', name: 'HTML 解码', desc: '字符实体解码' },
             { id: 'unicode', name: 'Unicode', desc: '统一码' },
             { id: 'ascii', name: 'ASCII', desc: '美国信息交换码' },
             { id: 'utf8', name: 'UTF-8', desc: '可变长编码' },
             { id: 'hex', name: '十六进制', desc: 'Hex编码' },
+            { id: 'hex-decode', name: '十六进制 解码', desc: 'Hex解码' },
             { id: 'octal', name: '八进制', desc: '0-7编码' },
             { id: 'quoted-print', name: '引用可打印', desc: 'MIME编码' },
             { id: 'uuencoding', name: 'UUEncode', desc: 'Unix编码' }
@@ -80,6 +84,7 @@ const CipherCategories = {
         ciphers: [
             { id: 'morse', name: '摩斯电码', desc: '点划编码' },
             { id: 'binary', name: '二进制', desc: '0/1编码' },
+            { id: 'binary-decode', name: '二进制 解码', desc: '二进制解码' },
             { id: 'pigpen', name: '猪圈密码', desc: '符号替换' },
             { id: 'taps', name: '敲击码', desc: '敲击通信' },
             { id: 'rot47', name: 'ROT47', desc: '数字字母轮换' },
@@ -682,11 +687,32 @@ function doConvert() {
             case 'base64':
                 result = btoa(unescape(encodeURIComponent(input)));
                 break;
+            case 'base64-decode':
+                try {
+                    result = decodeURIComponent(escape(atob(input)));
+                } catch (e) {
+                    showToast('Base64解码失败，输入格式不正确', 'error');
+                    return;
+                }
+                break;
             case 'url':
                 result = encodeURIComponent(input);
                 break;
+            case 'url-decode':
+                try {
+                    result = decodeURIComponent(input);
+                } catch (e) {
+                    showToast('URL解码失败', 'error');
+                    return;
+                }
+                break;
             case 'html':
                 result = input.replace(/[\u00-\u1F\u7F-\u9F]/g, c => '&#' + c.charCodeAt(0) + ';');
+                break;
+            case 'html-decode':
+                const div = document.createElement('div');
+                div.innerHTML = input;
+                result = div.textContent;
                 break;
             case 'unicode':
                 result = input.split('').map(c => c.charCodeAt(0).toString(16).padStart(4, '0')).join('\\u');
@@ -694,8 +720,24 @@ function doConvert() {
             case 'binary':
                 result = input.split('').map(c => c.charCodeAt(0).toString(2).padStart(8, '0')).join(' ');
                 break;
+            case 'binary-decode':
+                try {
+                    result = input.trim().split(' ').map(b => String.fromCharCode(parseInt(b, 2))).join('');
+                } catch (e) {
+                    showToast('二进制解码失败', 'error');
+                    return;
+                }
+                break;
             case 'hex':
                 result = input.split('').map(c => c.charCodeAt(0).toString(16).padStart(2, '0')).join('');
+                break;
+            case 'hex-decode':
+                try {
+                    result = input.replace(/\s/g, '').match(/.{1,2}/g).map(h => String.fromCharCode(parseInt(h, 16))).join('');
+                } catch (e) {
+                    showToast('十六进制解码失败', 'error');
+                    return;
+                }
                 break;
             case 'morse':
                 result = textToMorse(input);
