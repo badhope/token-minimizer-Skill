@@ -132,6 +132,21 @@ Token Minimizer (aka "抠门 Skill") is an LLM token optimization experiment. It
 
 ## 🚀 One Click Publish / 一键发布
 
+### 🌍 Zero-Setup CDNs / 零配置全球CDN
+
+**All of these are AUTOMATIC. Push to GitHub = published everywhere!**
+**所有这些都是全自动的！代码推到GitHub = 全球发布！**
+
+| Platform | URL | Setup Required |
+|----------|-----|----------------|
+| **jsDelivr** | `https://cdn.jsdelivr.net/gh/badhope/token-minimizer-Skill/` | ✅ None |
+| **unpkg** | `https://unpkg.com/token-minimizer-skill/` | ✅ None |
+| **Skypack** | `https://cdn.skypack.dev/token-minimizer-skill` | ✅ None |
+| **GitHub Pages** | Auto-deploy on release | ✅ None |
+| **GitHub Raw** | Direct raw access | ✅ None |
+
+---
+
 ### English
 
 Automatically create version tags and trigger GitHub Release workflow.

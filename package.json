@@ -1,0 +1,28 @@
+{
+  "name": "token-minimizer-skill",
+  "version": "1.0.0",
+  "description": "An interesting experiment in extreme token efficiency. 20x compression, <2% performance loss. 抠门Skill - 极致token省钱实验",
+  "main": ".trae/skills/token-minimizer/SKILL.md",
+  "files": [
+    ".trae/skills/token-minimizer/SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/badhope/token-minimizer-Skill.git"
+  },
+  "keywords": [
+    "token",
+    "llm",
+    "ai",
+    "cost-saving",
+    "optimization",
+    "prompt-engineering",
+    "trae-skill",
+    "抠门"
+  ],
+  "author": "badhope team",
+  "license": "MIT",
+  "homepage": "https://github.com/badhope/token-minimizer-Skill"
+}

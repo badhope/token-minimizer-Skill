@@ -77,7 +77,16 @@ Create-Release -v $Version
 Write-Host ""
 Write-Host "🎉 Publish initiated successfully!" -ForegroundColor Green
 Write-Host ""
+Write-Host "🌍 Your package is AUTOMATICALLY PUBLISHED to these CDNs:" -ForegroundColor Cyan
+Write-Host "   (No account, no click, no registration needed! Just wait 5-15 minutes)" -ForegroundColor DarkGray
+Write-Host ""
+Write-Host "   📦 jsDelivr:" -ForegroundColor White
+Write-Host "      https://cdn.jsdelivr.net/gh/badhope/token-minimizer-Skill/" -ForegroundColor Blue
+Write-Host "   📦 unpkg:" -ForegroundColor White
+Write-Host "      https://unpkg.com/token-minimizer-skill/" -ForegroundColor Blue
+Write-Host "   📦 Skypack (ESM):" -ForegroundColor White
+Write-Host "      https://cdn.skypack.dev/token-minimizer-skill" -ForegroundColor Blue
+Write-Host ""
 Write-Host "💡 After release, you can:" -ForegroundColor Cyan
-Write-Host "   • Manually trigger release from GitHub Actions" -ForegroundColor Gray
-Write-Host "   • Monitor release progress from Actions tab" -ForegroundColor Gray
+Write-Host "   • Monitor release progress: https://github.com/badhope/token-minimizer-Skill/actions" -ForegroundColor Gray
 Write-Host "   • Say '抠门' to test your new skill!" -ForegroundColor Gray
