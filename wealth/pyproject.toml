@@ -1,0 +1,89 @@
+[project]
+name = "wealth"
+version = "0.2.0"
+description = "A quantitative analysis platform for stocks and funds"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "Wealth Team"}
+]
+keywords = ["quantitative", "trading", "stocks", "finance", "analysis"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Financial and Insurance Industry",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+
+dependencies = [
+    "akshare>=1.13.0",
+    "yfinance>=0.2.35",
+    "pandas>=2.1.0",
+    "numpy>=1.26.0",
+    "fastapi>=0.109.0",
+    "uvicorn[standard]>=0.27.0",
+    "sqlmodel>=0.0.14",
+    "apscheduler>=3.10.4",
+    "pydantic>=2.5.0",
+    "pydantic-settings>=2.1.0",
+    "python-multipart>=0.0.6",
+    "httpx>=0.26.0",
+    "playwright>=1.40.0",
+    "ta>=0.10.2",
+    "scikit-learn>=1.4.0",
+    "tensorflow>=2.15.0",
+    "joblib>=1.3.2",
+    "pyecharts>=2.0.4",
+    "matplotlib>=3.8.0",
+    "seaborn>=0.13.0",
+    "loguru>=0.7.2",
+    "rich>=13.7.0",
+    "notify-py>=0.3.42",
+    "plyer>=2.1.0",
+    "dingtalk-sdk>=2.7.5",
+    "wechatpy>=2.0.22",
+    "cryptography>=41.0.0",
+    "xgboost>=2.0.0",
+    "scipy>=1.11.0",
+    "pmdarima>=2.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "pytest-asyncio>=0.23.0",
+    "pytest-cov>=4.1.0",
+    "ruff>=0.1.0",
+    "mypy>=1.8.0",
+    "pre-commit>=3.6.0",
+    "jupyter>=1.0.0",
+    "ipykernel>=6.28.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/wealth"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "N", "UP", "B", "C4", "DTZ", "T10", "ISC", "ICN", "PIE", "PYI", "RSE", "RET", "SLF", "SIM", "ARG", "PLE", "PLR", "PLW", "TRY", "NPY", "RUF"]
+ignore = ["E501", "TRY003", "PLR0913", "ARG001"]
+
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_ignores = true
+disallow_untyped_defs = false
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]

@@ -1,0 +1,186 @@
+{
+  "generation_time": "2026-03-23T18:59:04.475027",
+  "files": [
+    {
+      "type": "kline",
+      "symbol": "000001",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\kline_000001.json",
+      "records": 100
+    },
+    {
+      "type": "indicator",
+      "symbol": "000001",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\indicator_000001.json",
+      "records": 100
+    },
+    {
+      "type": "kline",
+      "symbol": "000002",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\kline_000002.json",
+      "records": 100
+    },
+    {
+      "type": "indicator",
+      "symbol": "000002",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\indicator_000002.json",
+      "records": 100
+    },
+    {
+      "type": "kline",
+      "symbol": "600000",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\kline_600000.json",
+      "records": 100
+    },
+    {
+      "type": "indicator",
+      "symbol": "600000",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\indicator_600000.json",
+      "records": 100
+    },
+    {
+      "type": "kline",
+      "symbol": "600036",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\kline_600036.json",
+      "records": 100
+    },
+    {
+      "type": "indicator",
+      "symbol": "600036",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\indicator_600036.json",
+      "records": 100
+    },
+    {
+      "type": "kline",
+      "symbol": "000858",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\kline_000858.json",
+      "records": 100
+    },
+    {
+      "type": "indicator",
+      "symbol": "000858",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\indicator_000858.json",
+      "records": 100
+    },
+    {
+      "type": "kline",
+      "symbol": "000333",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\kline_000333.json",
+      "records": 100
+    },
+    {
+      "type": "indicator",
+      "symbol": "000333",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\indicator_000333.json",
+      "records": 100
+    },
+    {
+      "type": "kline",
+      "symbol": "600519",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\kline_600519.json",
+      "records": 100
+    },
+    {
+      "type": "indicator",
+      "symbol": "600519",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\indicator_600519.json",
+      "records": 100
+    },
+    {
+      "type": "kline",
+      "symbol": "601318",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\kline_601318.json",
+      "records": 100
+    },
+    {
+      "type": "indicator",
+      "symbol": "601318",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\indicator_601318.json",
+      "records": 100
+    },
+    {
+      "type": "fund",
+      "symbol": "000001",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\fund_000001.json",
+      "records": 100
+    },
+    {
+      "type": "fund",
+      "symbol": "000002",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\fund_000002.json",
+      "records": 100
+    },
+    {
+      "type": "fund",
+      "symbol": "000003",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\fund_000003.json",
+      "records": 100
+    },
+    {
+      "type": "fund",
+      "symbol": "000004",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\fund_000004.json",
+      "records": 100
+    },
+    {
+      "type": "backtest",
+      "strategy": "macd",
+      "symbol": "000002",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\backtest_macd_000002.json"
+    },
+    {
+      "type": "backtest",
+      "strategy": "kdj",
+      "symbol": "600519",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\backtest_kdj_600519.json"
+    },
+    {
+      "type": "backtest",
+      "strategy": "bollinger",
+      "symbol": "000858",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\backtest_bollinger_000858.json"
+    },
+    {
+      "type": "backtest",
+      "strategy": "mean_reversion",
+      "symbol": "000333",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\backtest_mean_reversion_000333.json"
+    },
+    {
+      "type": "metadata",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\metadata.json"
+    },
+    {
+      "type": "checksums",
+      "path": "C:\\Users\\X1882\\Desktop\\wealth\\wealth\\scripts\\..\\data\\test\\checksums.json"
+    }
+  ],
+  "total_records": 2004,
+  "checksums": {
+    "kline_000001.json": "0221362f391274bbfb4459f63a44c151",
+    "indicator_000001.json": "2a3491789f67d07996db1106052424d3",
+    "kline_000002.json": "bd501d7dc2d3240b671ddf87de77a102",
+    "indicator_000002.json": "046ac3864bedb2fc373f6eb121610131",
+    "kline_600000.json": "a643d8baec51112c79334a3388b78e0f",
+    "indicator_600000.json": "f26c80651d068c3cc80c0fc3573ff795",
+    "kline_600036.json": "8d1682ce7d8cb13f00b36e22a5fd6509",
+    "indicator_600036.json": "b66501c081ddd4b5b76705bbb8bbff92",
+    "kline_000858.json": "cc5174645db70287ed3e20590780eb7c",
+    "indicator_000858.json": "8119c8e34aaaba6eebff8ac0878ce859",
+    "kline_000333.json": "8d0e2510e1384ebaa9b77bc9d7f9c6fe",
+    "indicator_000333.json": "5d686173f88eb67041f3a986bb04093f",
+    "kline_600519.json": "337218689ff2e184a6068e3be207c0ff",
+    "indicator_600519.json": "c237ea0e12771c43a648cde6c31b0f1a",
+    "kline_601318.json": "8c7a78118ceefa64083f05a4bf74fd24",
+    "indicator_601318.json": "2ed2c133fe4be011f78caf0a6cc6c0ee",
+    "fund_000001.json": "4388e22ad8a323ae79308a73c949f058",
+    "fund_000002.json": "5ee7f8b72d2b67ec3bc4614d7747dda7",
+    "fund_000003.json": "d52cec9b7c56648dccf70f15aa7e4d00",
+    "fund_000004.json": "de43f2e486001efcfdd0a2bababe6979",
+    "backtest_macd_000002.json": "6b03d1fe28253ea045829124176b6586",
+    "backtest_kdj_600519.json": "fa02c2586928cf1fc74bdbf7981d5d16",
+    "backtest_bollinger_000858.json": "81a67d85a3bc35d8399ce241f5eef552",
+    "backtest_mean_reversion_000333.json": "03cdde2559671e33838c9869f09a1ad4",
+    "metadata.json": "40e3cc5daef95697840cd7a8b969d95d"
+  },
+  "total_files": 26
+}

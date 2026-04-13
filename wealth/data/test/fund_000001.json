@@ -1,0 +1,1002 @@
+[
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2025-12-14",
+    "net_value": 1.0023,
+    "cumulative_value": 1.9506,
+    "daily_return": 0.2277,
+    "subscription_status": "限大额",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2025-12-15",
+    "net_value": 1.0301,
+    "cumulative_value": 1.7534,
+    "daily_return": 2.7763,
+    "subscription_status": "开放",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2025-12-16",
+    "net_value": 1.037,
+    "cumulative_value": 1.1632,
+    "daily_return": 0.6693,
+    "subscription_status": "暂停",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2025-12-17",
+    "net_value": 1.0155,
+    "cumulative_value": 1.4937,
+    "daily_return": -2.0772,
+    "subscription_status": "开放",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2025-12-18",
+    "net_value": 1.0111,
+    "cumulative_value": 1.9229,
+    "daily_return": -0.4338,
+    "subscription_status": "暂停",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2025-12-19",
+    "net_value": 0.9953,
+    "cumulative_value": 1.9669,
+    "daily_return": -1.5595,
+    "subscription_status": "开放",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2025-12-20",
+    "net_value": 0.9899,
+    "cumulative_value": 1.1315,
+    "daily_return": -0.5399,
+    "subscription_status": "暂停",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2025-12-21",
+    "net_value": 1.0385,
+    "cumulative_value": 1.3883,
+    "daily_return": 4.9098,
+    "subscription_status": "开放",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2025-12-22",
+    "net_value": 1.0446,
+    "cumulative_value": 1.9608,
+    "daily_return": 0.5848,
+    "subscription_status": "限大额",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2025-12-23",
+    "net_value": 1.0697,
+    "cumulative_value": 1.902,
+    "daily_return": 2.407,
+    "subscription_status": "开放",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2025-12-24",
+    "net_value": 1.1079,
+    "cumulative_value": 1.5515,
+    "daily_return": 3.5665,
+    "subscription_status": "限大额",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2025-12-25",
+    "net_value": 1.1345,
+    "cumulative_value": 2.1017,
+    "daily_return": 2.3986,
+    "subscription_status": "开放",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2025-12-26",
+    "net_value": 1.1717,
+    "cumulative_value": 1.3957,
+    "daily_return": 3.2868,
+    "subscription_status": "限大额",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2025-12-27",
+    "net_value": 1.1881,
+    "cumulative_value": 1.6415,
+    "daily_return": 1.3945,
+    "subscription_status": "暂停",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2025-12-28",
+    "net_value": 1.1508,
+    "cumulative_value": 1.6622,
+    "daily_return": -3.1381,
+    "subscription_status": "暂停",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2025-12-29",
+    "net_value": 1.1491,
+    "cumulative_value": 1.6126,
+    "daily_return": -0.1456,
+    "subscription_status": "暂停",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2025-12-30",
+    "net_value": 1.1784,
+    "cumulative_value": 2.3136,
+    "daily_return": 2.5477,
+    "subscription_status": "暂停",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2025-12-31",
+    "net_value": 1.1326,
+    "cumulative_value": 1.839,
+    "daily_return": -3.8852,
+    "subscription_status": "限大额",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-01",
+    "net_value": 1.1487,
+    "cumulative_value": 1.5698,
+    "daily_return": 1.4231,
+    "subscription_status": "限大额",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-02",
+    "net_value": 1.1117,
+    "cumulative_value": 1.8417,
+    "daily_return": -3.2209,
+    "subscription_status": "开放",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-03",
+    "net_value": 1.0665,
+    "cumulative_value": 1.8563,
+    "daily_return": -4.0664,
+    "subscription_status": "限大额",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-04",
+    "net_value": 1.1041,
+    "cumulative_value": 1.3593,
+    "daily_return": 3.5221,
+    "subscription_status": "暂停",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-05",
+    "net_value": 1.088,
+    "cumulative_value": 1.327,
+    "daily_return": -1.462,
+    "subscription_status": "暂停",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-06",
+    "net_value": 1.1255,
+    "cumulative_value": 1.9838,
+    "daily_return": 3.4501,
+    "subscription_status": "暂停",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-07",
+    "net_value": 1.1334,
+    "cumulative_value": 1.3306,
+    "daily_return": 0.7011,
+    "subscription_status": "开放",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-08",
+    "net_value": 1.1703,
+    "cumulative_value": 1.5464,
+    "daily_return": 3.2613,
+    "subscription_status": "开放",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-09",
+    "net_value": 1.228,
+    "cumulative_value": 1.3799,
+    "daily_return": 4.9268,
+    "subscription_status": "开放",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-10",
+    "net_value": 1.2873,
+    "cumulative_value": 1.7003,
+    "daily_return": 4.8326,
+    "subscription_status": "开放",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-11",
+    "net_value": 1.3064,
+    "cumulative_value": 1.6909,
+    "daily_return": 1.479,
+    "subscription_status": "开放",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-12",
+    "net_value": 1.2729,
+    "cumulative_value": 1.424,
+    "daily_return": -2.5632,
+    "subscription_status": "限大额",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-13",
+    "net_value": 1.3159,
+    "cumulative_value": 1.9384,
+    "daily_return": 3.3793,
+    "subscription_status": "限大额",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-14",
+    "net_value": 1.2754,
+    "cumulative_value": 1.6165,
+    "daily_return": -3.0776,
+    "subscription_status": "限大额",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-15",
+    "net_value": 1.2626,
+    "cumulative_value": 2.0428,
+    "daily_return": -1.0038,
+    "subscription_status": "暂停",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-16",
+    "net_value": 1.2325,
+    "cumulative_value": 2.2396,
+    "daily_return": -2.3851,
+    "subscription_status": "暂停",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-17",
+    "net_value": 1.224,
+    "cumulative_value": 1.748,
+    "daily_return": -0.6869,
+    "subscription_status": "开放",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-18",
+    "net_value": 1.229,
+    "cumulative_value": 1.4371,
+    "daily_return": 0.4037,
+    "subscription_status": "限大额",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-19",
+    "net_value": 1.2071,
+    "cumulative_value": 2.2267,
+    "daily_return": -1.7834,
+    "subscription_status": "限大额",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-20",
+    "net_value": 1.2427,
+    "cumulative_value": 2.0145,
+    "daily_return": 2.9556,
+    "subscription_status": "开放",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-21",
+    "net_value": 1.2686,
+    "cumulative_value": 2.0067,
+    "daily_return": 2.0835,
+    "subscription_status": "开放",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-22",
+    "net_value": 1.2341,
+    "cumulative_value": 1.7444,
+    "daily_return": -2.7218,
+    "subscription_status": "限大额",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-23",
+    "net_value": 1.2929,
+    "cumulative_value": 2.3776,
+    "daily_return": 4.7649,
+    "subscription_status": "开放",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-24",
+    "net_value": 1.263,
+    "cumulative_value": 2.3404,
+    "daily_return": -2.3087,
+    "subscription_status": "暂停",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-25",
+    "net_value": 1.2552,
+    "cumulative_value": 2.0484,
+    "daily_return": -0.6213,
+    "subscription_status": "开放",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-26",
+    "net_value": 1.1952,
+    "cumulative_value": 1.7972,
+    "daily_return": -4.7788,
+    "subscription_status": "限大额",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-27",
+    "net_value": 1.2425,
+    "cumulative_value": 1.8998,
+    "daily_return": 3.9584,
+    "subscription_status": "限大额",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-28",
+    "net_value": 1.1883,
+    "cumulative_value": 1.6862,
+    "daily_return": -4.3622,
+    "subscription_status": "限大额",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-29",
+    "net_value": 1.1966,
+    "cumulative_value": 2.3365,
+    "daily_return": 0.6975,
+    "subscription_status": "限大额",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-30",
+    "net_value": 1.2222,
+    "cumulative_value": 1.8843,
+    "daily_return": 2.1361,
+    "subscription_status": "限大额",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-01-31",
+    "net_value": 1.2816,
+    "cumulative_value": 1.658,
+    "daily_return": 4.8621,
+    "subscription_status": "暂停",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-01",
+    "net_value": 1.2865,
+    "cumulative_value": 2.1964,
+    "daily_return": 0.384,
+    "subscription_status": "暂停",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-02",
+    "net_value": 1.2955,
+    "cumulative_value": 2.4464,
+    "daily_return": 0.6986,
+    "subscription_status": "暂停",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-03",
+    "net_value": 1.33,
+    "cumulative_value": 2.6363,
+    "daily_return": 2.663,
+    "subscription_status": "限大额",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-04",
+    "net_value": 1.3783,
+    "cumulative_value": 2.7204,
+    "daily_return": 3.6273,
+    "subscription_status": "开放",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-05",
+    "net_value": 1.4133,
+    "cumulative_value": 2.3019,
+    "daily_return": 2.5447,
+    "subscription_status": "开放",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-06",
+    "net_value": 1.3517,
+    "cumulative_value": 1.9901,
+    "daily_return": -4.3637,
+    "subscription_status": "开放",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-07",
+    "net_value": 1.3104,
+    "cumulative_value": 2.5969,
+    "daily_return": -3.0538,
+    "subscription_status": "开放",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-08",
+    "net_value": 1.2487,
+    "cumulative_value": 2.4175,
+    "daily_return": -4.7051,
+    "subscription_status": "限大额",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-09",
+    "net_value": 1.2277,
+    "cumulative_value": 1.4545,
+    "daily_return": -1.6821,
+    "subscription_status": "暂停",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-10",
+    "net_value": 1.2524,
+    "cumulative_value": 2.1501,
+    "daily_return": 2.0093,
+    "subscription_status": "暂停",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-11",
+    "net_value": 1.277,
+    "cumulative_value": 1.5639,
+    "daily_return": 1.9642,
+    "subscription_status": "暂停",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-12",
+    "net_value": 1.2254,
+    "cumulative_value": 1.7396,
+    "daily_return": -4.0414,
+    "subscription_status": "限大额",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-13",
+    "net_value": 1.2718,
+    "cumulative_value": 1.971,
+    "daily_return": 3.7906,
+    "subscription_status": "开放",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-14",
+    "net_value": 1.2593,
+    "cumulative_value": 1.6421,
+    "daily_return": -0.9857,
+    "subscription_status": "限大额",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-15",
+    "net_value": 1.2066,
+    "cumulative_value": 1.8178,
+    "daily_return": -4.1843,
+    "subscription_status": "开放",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-16",
+    "net_value": 1.1774,
+    "cumulative_value": 2.2268,
+    "daily_return": -2.4223,
+    "subscription_status": "开放",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-17",
+    "net_value": 1.1255,
+    "cumulative_value": 1.616,
+    "daily_return": -4.4085,
+    "subscription_status": "开放",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-18",
+    "net_value": 1.1776,
+    "cumulative_value": 1.8562,
+    "daily_return": 4.636,
+    "subscription_status": "开放",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-19",
+    "net_value": 1.1641,
+    "cumulative_value": 1.3094,
+    "daily_return": -1.1525,
+    "subscription_status": "限大额",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-20",
+    "net_value": 1.1495,
+    "cumulative_value": 1.3362,
+    "daily_return": -1.2516,
+    "subscription_status": "开放",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-21",
+    "net_value": 1.1652,
+    "cumulative_value": 1.8042,
+    "daily_return": 1.3648,
+    "subscription_status": "限大额",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-22",
+    "net_value": 1.2206,
+    "cumulative_value": 1.4492,
+    "daily_return": 4.7577,
+    "subscription_status": "限大额",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-23",
+    "net_value": 1.2328,
+    "cumulative_value": 1.9929,
+    "daily_return": 0.9972,
+    "subscription_status": "暂停",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-24",
+    "net_value": 1.2754,
+    "cumulative_value": 2.2892,
+    "daily_return": 3.4597,
+    "subscription_status": "限大额",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-25",
+    "net_value": 1.3155,
+    "cumulative_value": 1.9741,
+    "daily_return": 3.1436,
+    "subscription_status": "限大额",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-26",
+    "net_value": 1.3728,
+    "cumulative_value": 2.6075,
+    "daily_return": 4.3529,
+    "subscription_status": "开放",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-27",
+    "net_value": 1.4325,
+    "cumulative_value": 1.7147,
+    "daily_return": 4.3503,
+    "subscription_status": "限大额",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-02-28",
+    "net_value": 1.4454,
+    "cumulative_value": 1.8077,
+    "daily_return": 0.9011,
+    "subscription_status": "开放",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-01",
+    "net_value": 1.4011,
+    "cumulative_value": 1.737,
+    "daily_return": -3.0684,
+    "subscription_status": "限大额",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-02",
+    "net_value": 1.4624,
+    "cumulative_value": 2.8309,
+    "daily_return": 4.3782,
+    "subscription_status": "限大额",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-03",
+    "net_value": 1.504,
+    "cumulative_value": 2.9321,
+    "daily_return": 2.8406,
+    "subscription_status": "限大额",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-04",
+    "net_value": 1.4386,
+    "cumulative_value": 1.9013,
+    "daily_return": -4.3454,
+    "subscription_status": "开放",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-05",
+    "net_value": 1.5048,
+    "cumulative_value": 2.32,
+    "daily_return": 4.6039,
+    "subscription_status": "暂停",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-06",
+    "net_value": 1.4835,
+    "cumulative_value": 2.8557,
+    "daily_return": -1.4168,
+    "subscription_status": "暂停",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-07",
+    "net_value": 1.5143,
+    "cumulative_value": 2.8093,
+    "daily_return": 2.0764,
+    "subscription_status": "开放",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-08",
+    "net_value": 1.4524,
+    "cumulative_value": 2.4536,
+    "daily_return": -4.0905,
+    "subscription_status": "限大额",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-09",
+    "net_value": 1.4633,
+    "cumulative_value": 2.3101,
+    "daily_return": 0.7509,
+    "subscription_status": "暂停",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-10",
+    "net_value": 1.4842,
+    "cumulative_value": 2.0101,
+    "daily_return": 1.432,
+    "subscription_status": "开放",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-11",
+    "net_value": 1.5234,
+    "cumulative_value": 2.0773,
+    "daily_return": 2.6352,
+    "subscription_status": "限大额",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-12",
+    "net_value": 1.5088,
+    "cumulative_value": 2.1717,
+    "daily_return": -0.9576,
+    "subscription_status": "暂停",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-13",
+    "net_value": 1.5074,
+    "cumulative_value": 2.0944,
+    "daily_return": -0.0876,
+    "subscription_status": "暂停",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-14",
+    "net_value": 1.4907,
+    "cumulative_value": 2.3074,
+    "daily_return": -1.1119,
+    "subscription_status": "暂停",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-15",
+    "net_value": 1.5203,
+    "cumulative_value": 2.3942,
+    "daily_return": 1.989,
+    "subscription_status": "开放",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-16",
+    "net_value": 1.5883,
+    "cumulative_value": 2.1861,
+    "daily_return": 4.4678,
+    "subscription_status": "限大额",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-17",
+    "net_value": 1.6518,
+    "cumulative_value": 2.624,
+    "daily_return": 4.0028,
+    "subscription_status": "限大额",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-18",
+    "net_value": 1.6914,
+    "cumulative_value": 2.6738,
+    "daily_return": 2.3926,
+    "subscription_status": "开放",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-19",
+    "net_value": 1.6719,
+    "cumulative_value": 2.3684,
+    "daily_return": -1.151,
+    "subscription_status": "限大额",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-20",
+    "net_value": 1.726,
+    "cumulative_value": 2.9614,
+    "daily_return": 3.2375,
+    "subscription_status": "暂停",
+    "redemption_status": "T+3"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-21",
+    "net_value": 1.7275,
+    "cumulative_value": 3.2205,
+    "daily_return": 0.0837,
+    "subscription_status": "限大额",
+    "redemption_status": "暂停"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-22",
+    "net_value": 1.7588,
+    "cumulative_value": 2.0054,
+    "daily_return": 1.8113,
+    "subscription_status": "开放",
+    "redemption_status": "开放"
+  },
+  {
+    "symbol": "000001",
+    "name": "基金000001",
+    "date": "2026-03-23",
+    "net_value": 1.7512,
+    "cumulative_value": 2.219,
+    "daily_return": -0.4277,
+    "subscription_status": "开放",
+    "redemption_status": "T+3"
+  }
+]
